@@ -9,6 +9,7 @@
 # 패키지 설치 
 install.packages("rvest")
 install.packages("xml2")
+install.packages("ggplot2")
 
 # 패키지 로드 
 library(rvest)
